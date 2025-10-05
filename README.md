@@ -33,13 +33,7 @@ You can open the project locally using any of the following methods:
 #### Option 1: Open in Browser
 Simply open the `index.html` file in your browser.
 
-#### Option 2: Use a Local Server (Recommended)
-If you want to test features like scripts or relative paths:
-```bash
-# For Python 3
-python -m http.server 5500
-```
-Then visit [http://localhost:5500](http://localhost:5500).
+
 
 Or if you’re using VS Code:
 - Install the **Live Server** extension.
@@ -55,7 +49,7 @@ Or if you’re using VS Code:
 
 
 ## 🧑‍💻 Author
-**Eureka**  
+**   Team Eureka**  
 📧 ramprasadsaw30@gmail.com  
 
 
@@ -66,4 +60,15 @@ This project is open-source and available under the [MIT License](LICENSE).
 - **gemini pro**
 - **chatgpt pro**
 - **perpexility**
+
+## ASSET USED
+
+- **cards.png**
+- **customer.section.mp4**
+-  **loader.mp4**
+-   **testimonal.mp4**
+-    **showcase work.mp4**
+-  **parallax animation.mp4**
+-  **homepage.mp4**
   
+## We have used the animations provided and also added our own unique touch to it.
