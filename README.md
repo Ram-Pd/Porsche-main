@@ -1,4 +1,5 @@
-# Porsche Website
+# Porsche Website(TECH ZEPHYR 3)
+
 
 A responsive and visually appealing static website inspired by Porsche, showcasing premium car designs and elegant UI interactions.
 
@@ -66,7 +67,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 - **cards.png**
 - **customer.section.mp4**
 -  **loader.mp4**
--   **testimonal.mp4**
+-   **testimonials.mp4**
 -    **showcase work.mp4**
 -  **parallax animation.mp4**
 -  **homepage.mp4**
